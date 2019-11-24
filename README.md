@@ -1,4 +1,4 @@
-# 《持续建模与实践》《Continues modeling and practice》
+# 《Continues modeling and practice》
 
 《持续建模与实践》介绍的是一套易于理解的快速建模方法和一些系统建模在落地过程中的实践总结。
 
