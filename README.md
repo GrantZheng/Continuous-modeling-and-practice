@@ -10,7 +10,7 @@
 
 ## 更新与反馈
 
-由于工作繁忙，为保证文章质量，每2周～3周更新一篇。最新的文章会第一时间发布到github上和[我的简书](https://www.jianshu.com/nb/38489958)上，喜欢的朋友欢迎star和watch，如有意见，欢迎提issue和留言。
+由于工作繁忙，为保证文章质量，每2周～3周更新一篇。最新的文章会第一时间发布到[我的github](https://github.com/GrantZheng/Continuous-modeling-and-practice)上和[我的简书](https://www.jianshu.com/nb/38489958)上，喜欢的朋友欢迎star和watch，如有意见，欢迎提issue和留言。
 
 
 
