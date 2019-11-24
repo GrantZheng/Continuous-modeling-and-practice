@@ -6,11 +6,11 @@
 
 ## 阅读方式
 
-其实市面上与建模相关的书籍有很多，为了避免大家说我重复造轮子，还是希望大家在看其它章节内容前，能从前言开始阅读，里面详细介绍了我写此书的背景，然后逐章浏览。
+其实市面上与建模相关的书籍有很多，为了避免大家说我重复造轮子，还是希望大家在看其它章节内容前，能先看[目录](https://github.com/GrantZheng/Continuous-modeling-and-practice/blob/master/SUMMARY.md)并从[前言](https://github.com/GrantZheng/Continuous-modeling-and-practice/blob/master/qian-yan.md)开始阅读，里面详细介绍了我写此书的背景，然后再逐章浏览。
 
 ## 更新与反馈
 
-由于工作繁忙，为保证文章质量尽量保证2周～3周更新一篇。最新文章会第一时间发布到github上和[我的简书](https://www.jianshu.com/nb/38489958)上，喜欢的朋友欢迎star和watch，如有意见，欢迎提issue和留言。
+由于工作繁忙，为保证文章质量，每2周～3周更新一篇。最新的文章会第一时间发布到github上和[我的简书](https://www.jianshu.com/nb/38489958)上，喜欢的朋友欢迎star和watch，如有意见，欢迎提issue和留言。
 
 
 
