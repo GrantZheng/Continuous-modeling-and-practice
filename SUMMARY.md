@@ -2,7 +2,8 @@
 
 * [序](README.md)
 * [前言](qian-yan.md)
-* [需求与用例分析](demand-case-analysis.md)
+* [软件建模的本质是映射](ruan-jian-jian-mo-de-ben-zhi-shi-ying-she.md)
+* [通过用例描述现实需求](demand-case-analysis.md)
 * [业务实体分析](ye-wu-shi-ti-fen-xi.md)
 * [动态视图的构建](dong-tai-shi-tu-de-gou-jian.md)
 * [实体设计](shi-ti-she-ji.md)
