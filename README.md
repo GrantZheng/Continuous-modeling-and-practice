@@ -12,6 +12,12 @@
 
 由于工作繁忙，为保证文章质量，每2周～3周更新一篇。最新的文章会第一时间发布到[我的github](https://github.com/GrantZheng/Continuous-modeling-and-practice)上和[我的简书](https://www.jianshu.com/nb/38489958)上，喜欢的朋友欢迎star和watch，如有意见，欢迎提issue和留言。
 
+Gitbook地址：[https://grantzheng.gitbook.io/continuous-modeling-and-practice/](https://grantzheng.gitbook.io/continuous-modeling-and-practice/)
+
+微信公众号：持续建模与实战
+
+
+
 
 
 
