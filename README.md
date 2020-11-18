@@ -14,7 +14,9 @@
 
 Gitbook地址：[https://grantzheng.gitbook.io/continuous-modeling-and-practice/](https://grantzheng.gitbook.io/continuous-modeling-and-practice/)
 
-微信公众号：持续建模与实战
+                                                         微信公众号：持续建模与实战
+
+![](.gitbook/assets/image%20%2820%29.png)
 
 
 
