@@ -6,7 +6,7 @@
 
 ## 阅读方式
 
-其实市面上与建模相关的书籍有很多，为了避免大家说我重复造轮子，还是希望大家在看其它章节内容前，能先看[目录](https://github.com/GrantZheng/Continuous-modeling-and-practice/blob/master/SUMMARY.md)并从[前言](https://github.com/GrantZheng/Continuous-modeling-and-practice/blob/master/qian-yan.md)开始阅读，里面详细介绍了我写此书的背景，然后再逐章浏览。
+其实市面上与建模相关的书籍有很多，为了避免大家说我重复造轮子，还是希望大家在看其它章节内容前，能先看[目录](SUMMARY.md)并从[前言](qian-yan.md)开始阅读，里面详细介绍了我写此书的背景，然后再逐章浏览。
 
 ## 更新与反馈
 
@@ -14,11 +14,9 @@
 
 Gitbook地址：[https://grantzheng.gitbook.io/continuous-modeling-and-practice/](https://grantzheng.gitbook.io/continuous-modeling-and-practice/)
 
-                                                         微信公众号：持续建模与实战
+&#x20;                                                        微信公众号：持续建模与实战
 
-![](.gitbook/assets/image%20%2820%29.png)
-
-
+![](<.gitbook/assets/image (23).png>)
 
 
 
